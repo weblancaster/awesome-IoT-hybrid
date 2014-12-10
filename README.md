@@ -1,6 +1,6 @@
 # Awesome-Hybrid
 
-> A collection of awesome Hybrid Apps frameworks, tools, resources, videos and shiny things on Hybrid Apps.
+> The missing awesome list - collection of awesome Hybrid Apps frameworks, tools, resources, videos and shiny things.
 
 
 ## Desktop
@@ -12,6 +12,10 @@
 - [AppJS](http://appjs.com/)
 - [MAcGap](https://github.com/MacGapProject)
 - [TideSDK](http://www.tidesdk.org/)
+
+**Articles/Reading/Slides**
+
+- [Beyond the Web w/ NodeWebkit](https://speakerdeck.com/weblancaster/beyond-the-web-with-nodewebkit)
 
 **Videos**
 
