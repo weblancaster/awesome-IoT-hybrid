@@ -36,6 +36,9 @@
 - [Intel XDK](https://software.intel.com/en-us/html5/tools)
 - [Trigger.io](https://trigger.io/)
 
+**Videos**
+- [Using AngularJS to create iPhone & Android applications w/ PhoneGap](https://www.youtube.com/watch?v=wVntVkRLR3M)
+
 ## Miscellaneous
 
 - [Firefox OS](https://www.mozilla.org/en-US/firefox/os/)
