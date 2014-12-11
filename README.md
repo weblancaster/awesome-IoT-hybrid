@@ -37,6 +37,8 @@
 - [Trigger.io](https://trigger.io/)
 
 **Videos**
+
+- [Building & Testing Mobile Apps with Web Standards](https://www.youtube.com/watch?v=u6YBDqIFlvg)
 - [Using AngularJS to create iPhone & Android applications w/ PhoneGap](https://www.youtube.com/watch?v=wVntVkRLR3M)
 
 ## Miscellaneous
