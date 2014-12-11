@@ -41,6 +41,10 @@
 - [Building & Testing Mobile Apps with Web Standards](https://www.youtube.com/watch?v=u6YBDqIFlvg)
 - [Using AngularJS to create iPhone & Android applications w/ PhoneGap](https://www.youtube.com/watch?v=wVntVkRLR3M)
 
+**Tools/Plugins**
+
+- [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon)
+
 ## Miscellaneous
 
 - [Firefox OS](https://www.mozilla.org/en-US/firefox/os/)
