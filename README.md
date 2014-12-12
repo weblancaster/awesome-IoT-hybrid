@@ -15,6 +15,7 @@
 
 **Articles/Reading/Slides**
 
+- [The State of Desktop Applications in Node.js](https://nodesource.com/blog/node-desktop-applications?utm_source=javascriptweekly&utm_medium=email)
 - [Beyond the Web w/ NodeWebkit](https://speakerdeck.com/weblancaster/beyond-the-web-with-nodewebkit)
 
 **Videos**
