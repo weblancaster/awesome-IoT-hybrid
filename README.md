@@ -9,6 +9,7 @@
  
 - [NodeWebkit](https://github.com/rogerwang/node-webkit)
 - [Atom Shell](https://github.com/atom/atom-shell)
+- [Chromium Embedded Framework](https://code.google.com/p/chromiumembedded/)
 - [AppJS](http://appjs.com/)
 - [MAcGap](https://github.com/MacGapProject)
 - [TideSDK](http://www.tidesdk.org/)
