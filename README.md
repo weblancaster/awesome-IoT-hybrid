@@ -7,7 +7,7 @@
 
 **Frameworks/App runtime's**
  
-- [NodeWebkit](https://github.com/rogerwang/node-webkit)
+- [nw](https://github.com/nwjs/nw.js)
 - [Atom Shell](https://github.com/atom/atom-shell)
 - [Chromium Embedded Framework](https://code.google.com/p/chromiumembedded/)
 - [AppJS](http://appjs.com/)
