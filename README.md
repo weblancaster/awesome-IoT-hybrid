@@ -6,13 +6,14 @@
 ## Desktop
 
 **Frameworks/App runtime's**
- 
+
 - [nw.js](https://github.com/nwjs/nw.js)
 - [Atom Shell](https://github.com/atom/atom-shell)
 - [Chromium Embedded Framework](https://code.google.com/p/chromiumembedded/)
 - [AppJS](http://appjs.com/)
 - [MAcGap](https://github.com/MacGapProject)
 - [TideSDK](http://www.tidesdk.org/)
+- [Ionic](http://ionicframework.com/)
 
 **Articles/Reading/Slides**
 
@@ -54,7 +55,7 @@
 - [Leap Motion](https://www.leapmotion.com/)
 
 ## Contributing
- 
+
 1. Fork it!
 2. Create your branch: `git checkout -b my-new-branch`
 3. Commit your changes: `git commit -am 'fix stuff'`
