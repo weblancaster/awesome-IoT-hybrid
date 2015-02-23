@@ -13,7 +13,6 @@
 - [AppJS](http://appjs.com/)
 - [MAcGap](https://github.com/MacGapProject)
 - [TideSDK](http://www.tidesdk.org/)
-- [Ionic](http://ionicframework.com/)
 
 **Articles/Reading/Slides**
 
@@ -35,6 +34,7 @@
 
 - [PhoneGap](http://phonegap.com/)
 - [Corona](http://coronalabs.com/)
+- [Ionic](http://ionicframework.com/)
 - [Appcelerator](http://www.appcelerator.com/)
 - [Intel XDK](https://software.intel.com/en-us/html5/tools)
 - [Trigger.io](https://trigger.io/)
