@@ -23,11 +23,6 @@
 
 - [WebApp to DesktopApp with Node-Webkit](https://www.youtube.com/watch?v=d2tYH7vXMUM)
 
-**Examples**
-
-- [Soundnode App](https://github.com/Soundnode/soundnode-app)
-- [Popcorn Time](https://popcorntime.io/)
-
 ## Mobile
 
 **Frameworks/App runtime's**
