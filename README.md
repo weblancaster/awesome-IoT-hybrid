@@ -50,6 +50,7 @@
 - [Firefox OS](https://www.mozilla.org/en-US/firefox/os/)
 - [Tessel](https://tessel.io/)
 - [Leap Motion](https://www.leapmotion.com/)
+- [Spark](http://www.spark.io/)
 
 ## Contributing
 
