@@ -8,8 +8,8 @@
 **Frameworks/App runtime's**
 
 - [nw.js](https://github.com/nwjs/nw.js)
-- [Atom Shell](https://github.com/atom/atom-shell)
-- [Chromium Embedded Framework](https://code.google.com/p/chromiumembedded/)
+- [Electron](https://github.com/atom/electron)
+- [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 - [AppJS](http://appjs.com/)
 - [MAcGap](https://github.com/MacGapProject)
 - [TideSDK](http://www.tidesdk.org/)
