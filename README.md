@@ -36,11 +36,6 @@
 - [Trigger.io](https://trigger.io/)
 - [Crosswalk](https://crosswalk-project.org/)
 
-**Videos**
-
-- [Building & Testing Mobile Apps with Web Standards](https://www.youtube.com/watch?v=u6YBDqIFlvg)
-- [Using AngularJS to create iPhone & Android applications w/ PhoneGap](https://www.youtube.com/watch?v=wVntVkRLR3M)
-
 **Tools/Plugins**
 
 - [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon)
