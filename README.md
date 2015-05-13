@@ -46,6 +46,10 @@
 - [Tessel](https://tessel.io/)
 - [Leap Motion](https://www.leapmotion.com/)
 - [Spark](http://www.spark.io/)
+- [Intel Galileo](http://www.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html)
+- [BeagleBoard](http://beagleboard.org/bone)
+- [Hue](http://www.developers.meethue.com/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
 
 ## Contributing
 
