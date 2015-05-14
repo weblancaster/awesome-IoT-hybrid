@@ -3,9 +3,42 @@
 > The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 
 
-## Desktop
+- [IoT](#iot)
+	- [OS](#os)
+	- [Frameworks/Tools](#frameworks-Tools)
+	- [Resources/websites/projects](#resources-websites-projects)
+	- [Resources/websites/projects](#resources-websites-projects)
+- [Hybrid Desktop](#hybrid-desktop)
+- [Hybrid mobile](#hybrid-mobile)
+	- [Tools/Plugins](#tools-plugins)
+- [Miscellaneous](#miscellaneous)
 
-**Frameworks/App runtime's**
+## IoT
+- [Tessel](https://tessel.io/)
+- [Arduino](http://www.arduino.cc/)
+- [BeagleBoard](http://beagleboard.org/bone)
+- [Hue](http://www.developers.meethue.com/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
+- [C.H.I.P](https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer)
+- [Onion Omega](https://www.kickstarter.com/projects/onion/onion-omega-invention-platform-for-the-internet-of/video_share)
+- [Intel Galileo](http://www.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html)
+
+#### OS
+- [Riot OS](http://www.riot-os.org/)
+- [Node OS](https://node-os.com/)
+- [Contiki OS](http://www.contiki-os.org/)
+- [Raspbian](http://raspbian.org/)
+
+#### Frameworks-Tools
+- [CylonJS](http://cylonjs.com/)
+- [Node Red](http://nodered.org/)
+- [IoT Eclipse](http://iot.eclipse.org)
+
+#### Resources-websites-projects
+- [Hackday](https://hackaday.io/projects)
+- [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/)
+
+## Hybrid Desktop
 
 - [nw.js](https://github.com/nwjs/nw.js)
 - [Electron](https://github.com/atom/electron)
@@ -14,9 +47,7 @@
 - [MAcGap](https://github.com/MacGapProject)
 - [TideSDK](http://www.tidesdk.org/)
 
-## Mobile
-
-**Frameworks/App runtime's**
+## Hybrid Mobile
 
 - [React-Native](http://facebook.github.io/react-native/)
 - [PhoneGap](http://phonegap.com/)
@@ -27,34 +58,15 @@
 - [Trigger.io](https://trigger.io/)
 - [Crosswalk](https://crosswalk-project.org/)
 
-**Tools/Plugins**
+#### Tools-Plugins
 
 - [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon)
-
-##IoT Javascript Frameworks and Tools
-- [CylonJS](http://cylonjs.com/)
-- [Node Red](http://nodered.org/)
-
-**Resources/websites/projects**
-- [Hackday](https://hackaday.io/projects)
-- [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/)
-- 
-**OS**
-- [Node OS](https://node-os.com/)
-- [Contiki OS](http://www.contiki-os.org/)
 
 ## Miscellaneous
 
 - [Firefox OS](https://www.mozilla.org/en-US/firefox/os/)
-- [Tessel](https://tessel.io/)
 - [Leap Motion](https://www.leapmotion.com/)
-- [Spark](http://www.spark.io/)
-- [Intel Galileo](http://www.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html)
-- [BeagleBoard](http://beagleboard.org/bone)
-- [Hue](http://www.developers.meethue.com/)
-- [Raspberry Pi](https://www.raspberrypi.org/)
-- [C.H.I.P](https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer)
-- [Onion Omega](https://www.kickstarter.com/projects/onion/onion-omega-invention-platform-for-the-internet-of/video_share)
+- [Particle](https://www.particle.io/)
 
 ## Contributing
 
