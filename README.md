@@ -22,6 +22,7 @@
 - [C.H.I.P](https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer)
 - [Onion Omega](https://www.kickstarter.com/projects/onion/onion-omega-invention-platform-for-the-internet-of/video_share)
 - [Intel Galileo](http://www.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html)
+- [Particle](https://www.particle.io/)
 
 #### OS
 - [Riot OS](http://www.riot-os.org/)
@@ -66,7 +67,6 @@
 
 - [Firefox OS](https://www.mozilla.org/en-US/firefox/os/)
 - [Leap Motion](https://www.leapmotion.com/)
-- [Particle](https://www.particle.io/)
 
 ## Contributing
 
