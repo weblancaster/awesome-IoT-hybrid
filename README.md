@@ -40,6 +40,10 @@
 
 - [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon)
 
+**IoT Javascript Frameworks and Tools*
+- [CylonJS](http://cylonjs.com/)
+- [Node Red](http://nodered.org/)
+
 ## Miscellaneous
 
 - [Firefox OS](https://www.mozilla.org/en-US/firefox/os/)
@@ -50,6 +54,8 @@
 - [BeagleBoard](http://beagleboard.org/bone)
 - [Hue](http://www.developers.meethue.com/)
 - [Raspberry Pi](https://www.raspberrypi.org/)
+- [C.H.I.P](https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer)
+- [Onion Omega](https://www.kickstarter.com/projects/onion/onion-omega-invention-platform-for-the-internet-of/video_share)
 
 ## Contributing
 
