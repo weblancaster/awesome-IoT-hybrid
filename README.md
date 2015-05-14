@@ -1,6 +1,6 @@
-# Awesome-Hybrid
+# Awesome IoT & Hybrid
 
-> The missing awesome list - collection of awesome Hybrid Apps frameworks, tools, resources, videos and shiny things.
+> The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 
 
 ## Desktop
