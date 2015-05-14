@@ -14,15 +14,6 @@
 - [MAcGap](https://github.com/MacGapProject)
 - [TideSDK](http://www.tidesdk.org/)
 
-**Articles/Reading/Slides**
-
-- [The State of Desktop Applications in Node.js](https://nodesource.com/blog/node-desktop-applications?utm_source=javascriptweekly&utm_medium=email)
-- [Beyond the Web w/ NodeWebkit](https://speakerdeck.com/weblancaster/beyond-the-web-with-nodewebkit)
-
-**Videos**
-
-- [WebApp to DesktopApp with Node-Webkit](https://www.youtube.com/watch?v=d2tYH7vXMUM)
-
 ## Mobile
 
 **Frameworks/App runtime's**
@@ -40,7 +31,7 @@
 
 - [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon)
 
-**IoT Javascript Frameworks and Tools*
+##IoT Javascript Frameworks and Tools
 - [CylonJS](http://cylonjs.com/)
 - [Node Red](http://nodered.org/)
 
