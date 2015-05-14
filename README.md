@@ -38,6 +38,10 @@
 **Resources/websites/projects**
 - [Hackday](https://hackaday.io/projects)
 - [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/)
+- 
+**OS**
+- [Node OS](https://node-os.com/)
+- [Contiki OS](http://www.contiki-os.org/)
 
 ## Miscellaneous
 
