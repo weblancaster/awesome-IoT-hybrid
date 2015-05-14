@@ -35,6 +35,10 @@
 - [CylonJS](http://cylonjs.com/)
 - [Node Red](http://nodered.org/)
 
+**Resources/websites/projects**
+- [Hackday](https://hackaday.io/projects)
+- [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/)
+
 ## Miscellaneous
 
 - [Firefox OS](https://www.mozilla.org/en-US/firefox/os/)
