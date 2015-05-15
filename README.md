@@ -38,6 +38,7 @@
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
 - [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/)
+- [Hackster](http://www.hackster.io/)
 
 ## Hybrid Desktop
 
