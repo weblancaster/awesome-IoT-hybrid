@@ -59,6 +59,7 @@
 - [Intel XDK](https://software.intel.com/en-us/html5/tools)
 - [Trigger.io](https://trigger.io/)
 - [Crosswalk](https://crosswalk-project.org/)
+- [Telerik Platform](https://http://www.telerik.com/platform)
 
 #### Tools-Plugins
 
