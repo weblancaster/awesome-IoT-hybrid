@@ -60,6 +60,7 @@
 - [Trigger.io](https://trigger.io/)
 - [Crosswalk](https://crosswalk-project.org/)
 - [Telerik Platform](https://http://www.telerik.com/platform)
+- [Meteor](https://www.meteor.com/)
 
 #### Tools-Plugins
 
