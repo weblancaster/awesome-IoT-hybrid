@@ -29,7 +29,7 @@
 - [Node OS](https://node-os.com/)
 - [Contiki OS](http://www.contiki-os.org/)
 - [Raspbian](http://raspbian.org/)
-- [Brillo](https://developers.google.com/brillo/)
+- [Project Brillo](https://developers.google.com/brillo/)
 
 #### Frameworks-Tools
 - [CylonJS](http://cylonjs.com/)
