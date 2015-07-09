@@ -62,6 +62,7 @@
 - [Crosswalk](https://crosswalk-project.org/)
 - [Telerik Platform](http://www.telerik.com/platform)
 - [Meteor](https://www.meteor.com/)
+- [Tabris.js](https://tabrisjs.com/)
 
 #### Tools-Plugins
 
