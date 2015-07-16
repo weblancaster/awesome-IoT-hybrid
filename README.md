@@ -53,6 +53,7 @@
 ## Hybrid Mobile
 
 - [React-Native](http://facebook.github.io/react-native/)
+- [NativeScript](https://www.nativescript.org/)
 - [PhoneGap](http://phonegap.com/)
 - [Corona](http://coronalabs.com/)
 - [Ionic](http://ionicframework.com/)
