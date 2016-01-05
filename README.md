@@ -35,6 +35,7 @@
 - [CylonJS](http://cylonjs.com/)
 - [Node Red](http://nodered.org/)
 - [IoT Eclipse](http://iot.eclipse.org)
+- [Countly IoT Analytics](http://count.ly)
 
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
