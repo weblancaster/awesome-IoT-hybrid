@@ -7,7 +7,6 @@
 	- [OS](#os)
 	- [Frameworks/Tools](#frameworks-tools)
 	- [Resources/websites/projects](#resources-websites-projects)
-	- [Resources/websites/projects](#resources-websites-projects)
 - [Hybrid Desktop](#hybrid-desktop)
 - [Hybrid mobile](#hybrid-mobile)
 	- [Tools/Plugins](#tools-plugins)
