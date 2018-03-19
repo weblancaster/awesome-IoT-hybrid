@@ -49,7 +49,6 @@
 - [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 - [AppJS](http://appjs.com/)
 - [MacGap](https://github.com/MacGapProject)
-- [TideSDK](http://www.tidesdk.org/)
 
 ## Hybrid Mobile
 
