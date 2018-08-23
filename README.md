@@ -41,6 +41,8 @@
 - [Hackday](https://hackaday.io/projects)
 - [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/)
 - [Hackster](http://www.hackster.io/)
+- [My Controller](https://www.mycontroller.org/#/home)
+- [Kaa Project](https://www.kaaproject.org/)
 
 ## Hybrid Desktop
 
