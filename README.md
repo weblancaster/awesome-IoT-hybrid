@@ -7,6 +7,7 @@
 	- [OS](#os)
 	- [Frameworks/Tools](#frameworks-tools)
 	- [Resources/websites/projects](#resources-websites-projects)
+- [IIoT](#iiot)
 - [Hybrid Desktop](#hybrid-desktop)
 - [Hybrid mobile](#hybrid-mobile)
 	- [Tools/Plugins](#tools-plugins)
@@ -43,6 +44,10 @@
 - [Hackster](http://www.hackster.io/)
 - [My Controller](https://www.mycontroller.org/#/home)
 - [Kaa Project](https://www.kaaproject.org/)
+
+## IIoT (Industrial IoT)
+- [OPC Router](https://www.opc-router.com/) - IIoT Gateway/Workflow-Engine with various plug-ins (Mqtt Bridge, OPC UA Bridge, SQL Bridge, REST Bridge, SAP Bridge)
+
 
 ## Hybrid Desktop
 
