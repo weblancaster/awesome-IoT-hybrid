@@ -19,7 +19,6 @@
 - [Hue](http://www.developers.meethue.com/)
 - [Raspberry Pi](https://www.raspberrypi.org/)
 - [Onion Omega](https://www.kickstarter.com/projects/onion/onion-omega-invention-platform-for-the-internet-of/video_share)
-- [Intel Galileo](http://www.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html)
 - [Particle](https://www.particle.io/)
 
 #### OS
