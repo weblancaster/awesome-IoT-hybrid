@@ -18,7 +18,6 @@
 - [BeagleBoard](http://beagleboard.org/bone)
 - [Hue](http://www.developers.meethue.com/)
 - [Raspberry Pi](https://www.raspberrypi.org/)
-- [C.H.I.P](https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer)
 - [Onion Omega](https://www.kickstarter.com/projects/onion/onion-omega-invention-platform-for-the-internet-of/video_share)
 - [Intel Galileo](http://www.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html)
 - [Particle](https://www.particle.io/)
