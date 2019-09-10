@@ -29,6 +29,7 @@
 - [Contiki OS](http://www.contiki-os.org/)
 - [Raspbian](http://raspbian.org/)
 - [Project Brillo](https://developers.google.com/brillo/)
+- [BalenaOS](https://www.balena.io/os/)
 
 #### Frameworks-Tools
 - [CylonJS](http://cylonjs.com/)
@@ -36,6 +37,7 @@
 - [IoT Eclipse](http://iot.eclipse.org)
 - [Gladys Project](http://gladysproject.com)
 - [Lelylan](https://github.com/lelylan/lelylan)
+- [BalenaCloud](https://www.balena.io/)
 
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
