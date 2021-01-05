@@ -37,6 +37,7 @@
 - [Gladys Project](http://gladysproject.com)
 - [Lelylan](https://github.com/lelylan/lelylan)
 - [BalenaCloud](https://www.balena.io/)
+- [Johnny-Five](http://johnny-five.io/)
 
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
