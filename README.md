@@ -71,6 +71,7 @@
 - [Telerik Platform](http://www.telerik.com/platform)
 - [Meteor](https://www.meteor.com/)
 - [Tabris.js](https://tabrisjs.com/)
+- [Ambianic.ai](https://github.com/ambianic)
 
 #### Tools-Plugins
 
