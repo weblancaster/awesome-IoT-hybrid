@@ -47,6 +47,7 @@
 
 ## IIoT (Industrial IoT)
 - [OPC Router](https://www.opc-router.com/) - IIoT Gateway/Workflow-Engine with various plug-ins (Mqtt Bridge, OPC UA Bridge, SQL Bridge, REST Bridge, SAP Bridge)
+- [IoT DC3](https://github.com/pnoker/iot-dc3) - Fully open-source, distributed industrial IoT platform built on Spring Cloud, with 28 built-in protocol drivers, AI-powered operations, and microservice architecture. ([Docs](https://docs.dc3.site))
 
 
 ## Hybrid Desktop
