@@ -75,6 +75,7 @@
 #### Tools-Plugins
 
 - [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon)
+- [Capgo](https://capgo.app/) - Live / OTA updates for Capacitor hybrid apps
 
 ## Miscellaneous
 
