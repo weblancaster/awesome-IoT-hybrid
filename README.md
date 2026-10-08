@@ -7,7 +7,7 @@
 	- [OS](#os)
 	- [Frameworks/Tools](#frameworks-tools)
 	- [Resources/websites/projects](#resources-websites-projects)
-- [IIoT](#iiot)
+- [IIoT](#iiot-industrial-iot)
 - [Hybrid Desktop](#hybrid-desktop)
 - [Hybrid mobile](#hybrid-mobile)
 	- [Tools/Plugins](#tools-plugins)
@@ -16,8 +16,8 @@
 ## IoT
 - [Tessel](https://tessel.io/)
 - [Arduino](http://www.arduino.cc/)
-- [BeagleBoard](http://beagleboard.org/bone)
-- [Hue](http://www.developers.meethue.com/)
+- [BeagleBoard](https://docs.beagleboard.org/boards/beaglebone/)
+- [Hue](https://developers.meethue.com/)
 - [Raspberry Pi](https://www.raspberrypi.org/)
 - [Onion Omega](https://www.kickstarter.com/projects/onion/onion-omega-invention-platform-for-the-internet-of/video_share)
 - [Particle](https://www.particle.io/)
@@ -31,7 +31,7 @@
 - [BalenaOS](https://www.balena.io/os/)
 
 #### Frameworks-Tools
-- [CylonJS](http://cylonjs.com/)
+- [CylonJS](https://github.com/hybridgroup/cylon)
 - [Node Red](http://nodered.org/)
 - [IoT Eclipse](http://iot.eclipse.org)
 - [Gladys Project](http://gladysproject.com)
@@ -59,7 +59,7 @@
 
 ## Hybrid Mobile
 
-- [React-Native](http://facebook.github.io/react-native/)
+- [React-Native](https://reactnative.dev/)
 - [NativeScript](https://www.nativescript.org/)
 - [PhoneGap](http://phonegap.com/)
 - [Corona](http://coronalabs.com/)
@@ -67,10 +67,10 @@
 - [Appcelerator](http://www.appcelerator.com/)
 - [Intel XDK](https://software.intel.com/en-us/html5/tools)
 - [Trigger.io](https://trigger.io/)
-- [Crosswalk](https://crosswalk-project.org/)
+- [Crosswalk](https://github.com/crosswalk-project/crosswalk)
 - [Telerik Platform](http://www.telerik.com/platform)
 - [Meteor](https://www.meteor.com/)
-- [Tabris.js](https://tabrisjs.com/)
+- [Tabris.js](https://github.com/eclipsesource/tabris-js)
 
 #### Tools-Plugins
 
