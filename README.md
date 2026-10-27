@@ -37,6 +37,8 @@
 - [Gladys Project](http://gladysproject.com)
 - [Lelylan](https://github.com/lelylan/lelylan)
 - [BalenaCloud](https://www.balena.io/)
+- [ConnectMQ](https://connectmq.com/)
+- [TestMQTT](https://testmqtt.com/)
 
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
