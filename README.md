@@ -47,6 +47,7 @@
 
 ## IIoT (Industrial IoT)
 - [OPC Router](https://www.opc-router.com/) - IIoT Gateway/Workflow-Engine with various plug-ins (Mqtt Bridge, OPC UA Bridge, SQL Bridge, REST Bridge, SAP Bridge)
+- [MORYX Framework](https://github.com/PHOENIXCONTACT/MORYX-Framework) - Open-source .NET framework for IIoT and manufacturing execution systems with digital twin abstractions, process engines, and hardware driver integration via OPC UA and MQTT.
 
 
 ## Hybrid Desktop
